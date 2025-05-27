@@ -4,27 +4,28 @@
 
 ![officerdownOS logo](/logo.png)
 
-![License](https://img.shields.io/github/license/officerdwn/officerdownOS)
-![GitHub issues](https://img.shields.io/github/issues/officerdwn/officerdownOS)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/officerdwn/officerdownOS)
-![GitHub stars](https://img.shields.io/github/stars/officerdwn/officerdownOS?style=social)
-![GitHub forks](https://img.shields.io/github/forks/officerdwn/officerdownOS?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/officerdwn/officerdownOS)
+![License](https://img.shields.io/github/license/officerdwn/officerdownOS-rocky)
+![GitHub issues](https://img.shields.io/github/issues/officerdwn/officerdownOS-rocky)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/officerdwn/officerdownOS-rocky)
+![GitHub stars](https://img.shields.io/github/stars/officerdwn/officerdownOS-rocky?style=social)
+![GitHub forks](https://img.shields.io/github/forks/officerdwn/officerdownOS-rocky?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/officerdwn/officerdownOS-rocky)
 ![Language](https://img.shields.io/badge/language-C-blue)
 ![Platform](https://img.shields.io/badge/platform-x86--64%20BIOS-orange)
 [![Website](https://img.shields.io/badge/website-officerdownos.weebly.com-blue?logo=google-chrome)](https://officerdownos.weebly.com)
 
-
-officerdownOS
+officerdownOS Rocky
 ==============
-credit to fdipilla for the base.
+The base for all of officerdownOS and its experiments.
 
-
-My biggest programming dream, coming true.
-Not much, but cool.
-I will try to update this as much as i can, because it is my coolest project.
-Please make an issue with suggetons for what I should add. Its pretty barebones right now.
-I have previously stated that I wont add a GUI, but I am considering adding one.
+The name
+--------
+This is Rocky. As you can tell, he is very cute. 
+I had the idea of the base of officerdownOS being named 
+Rocky because yes.
+Rocky is a Silky Terrier and is 4 months old as of 
+5/27/25 (the release of v1.0.0)
+Photo taken 5/27/25.
 
 Dependencies
 ------------
@@ -58,7 +59,7 @@ https://github.com/officerdwn/officerdownOS-windowsbuild/
 
 VMware & Physical Hardware
 --------------------------
-officerdownOS DOES support physical LEGACY hardware and VMware, 
+Rocky DOES support physical LEGACY hardware and VMware, 
 to run on physical hardware, use a program like rufus to flash 
 it as MBR. To run it on VMware give it around a gigabyte of RAM
 and 1 GB of storage (because VMware doesn't like 0 GB)
@@ -69,16 +70,7 @@ NOTE: Use the prebuilt ISO for booting on physical hardware and VMWare.
 (or build it and make a GRUB image)
 PSA: Physical Hardware booting has had issues with v0.1.4, Just use a VM.
 
-Versioning
-----------
 
-![officerdownOS versioning](/versioning.png)
-
-
-Development Roadmap
--------------------
-You can see the Trello roadmap by going to this link:
-https://trello.com/b/XhYQSA34/officerdownos-actually
 
 Screenshot
 ----------
