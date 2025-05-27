@@ -20,12 +20,13 @@ The base for all of officerdownOS and its experiments.
 
 The name
 --------
+![Rocky](/rocky.png)
 This is Rocky. As you can tell, he is very cute. 
 I had the idea of the base of officerdownOS being named 
 Rocky because yes.
 Rocky is a Silky Terrier and is 4 months old as of 
 5/27/25 (the release of v1.0.0)
-Photo taken 5/27/25.
+Photo taken 5/25/25.
 
 Dependencies
 ------------
